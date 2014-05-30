@@ -6,6 +6,13 @@ body{
 }
 a{
 	text-decoration: none;
+	font-color:#404040;
+	color:#404040;
+
+}
+a:visited{
+	font-color:#404040;
+	color:#404040;
 }
 
 
@@ -164,6 +171,7 @@ ul{
 	background-repeat: no-repeat;
 	background-position: 99.7% 50%;
 	opacity: 0.7;
+	font-size: 18px;
 
 }
 
